@@ -1,2 +1,1 @@
-# MyTest网易云课堂：尘霜落枫
-练手
+Hello world
